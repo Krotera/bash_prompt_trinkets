@@ -18,7 +18,7 @@ Random rainbow :game_die:
 
 See if you get any cool patterns! ... Or an ultra rare ***single color***...
 
-7 blocks and 7 possible colors means there's a `7 / 7^7`, or 0.00085%, chance of getting all 7 of one color, which seems about 1,489 times more likely than [winning the lottery](https://www.huffpost.com/entry/chances-of-winning-powerball-lottery_b_3288129).
+7 blocks and 7 possible colors means there's a `7 / 7^7`, or 0.00085%, chance of getting all 7 of any color, which seems about 1,489 times more likely than [winning the lottery](https://www.huffpost.com/entry/chances-of-winning-powerball-lottery_b_3288129).
 
 (Considering I've never gotten that once over several months at time of writing of seeing at least a few dozen prompts per day, I feel discouraged from ever buying Powerball tickets.)
 
