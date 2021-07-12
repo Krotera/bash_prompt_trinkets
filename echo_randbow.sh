@@ -22,7 +22,7 @@ function echo_randbow() {
 
     for thing in ${COLORS[*]}
     do
-        RET+="\[${COLORS[$RANDOM % ${#COLORS[*]}]}\]${BLOCK}\[${ANSI_RESET}\]"
+        RET+="\[${ANSI_BOLD}\]\[${COLORS[$RANDOM % ${#COLORS[*]}]}\]${BLOCK}\[${ANSI_RESET}\]"
     done
 
     echo $RET
